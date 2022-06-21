@@ -1,1 +1,1 @@
-# symmetrical-umbrella
+# Symmetrical Umbrella
